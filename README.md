@@ -1,1 +1,1 @@
-A simple Library written on Django
+A simple Library site written on Django
